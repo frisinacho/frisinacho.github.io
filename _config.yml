@@ -22,3 +22,10 @@ defaults:
       type: "posts"
     values:
       author: "Nacho"
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
