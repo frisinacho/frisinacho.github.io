@@ -13,3 +13,12 @@ github_username:  frisinacho
 markdown: kramdown
 timezone: Europe/Madrid
 future: true
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Nacho"
