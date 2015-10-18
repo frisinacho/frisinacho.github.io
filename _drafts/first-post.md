@@ -2,6 +2,7 @@
 layout: post
 title:  "Hello World!"
 category: personal
+excerpt: "This is my first post here using Jekyll and GitHub Pages"
 ---
 #Hello World!
 
