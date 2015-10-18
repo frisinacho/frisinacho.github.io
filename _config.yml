@@ -1,6 +1,7 @@
 # Site settings
 title: Frisinacho's Blog
 email: frisinacho@gmail.com
+phone: (+34)666208383
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to my personal web page.<br>
   Powered by Jekyll and hosted in GitHub
