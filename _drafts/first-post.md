@@ -11,3 +11,4 @@ This is my first post here, using [Jekyll](http://jekyllrb.com "Transform your p
 I've been looking for a custom way to make my own web page and also having my own blog, and I found this powerful tool that also allows me to write in **Markdown**.
 
 I <strike>(needed)</strike> *wanted* to have a personal web where I could upload my own *CV* and a little excerpt about what I'm doing or what I'm capable of.
+But also I wanted a way to have my personal/profesional blog, where I could write my thoughts and ideas, or every small piece of technology I found interesting (at least for myself). And it also brings me the possibility to practice and improve my english!
