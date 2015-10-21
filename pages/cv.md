@@ -57,3 +57,7 @@ permalink: /CV/
 
 - University of Málaga
 	* Bachelor of Software Engineering
+
+---
+
+<a href="../assets/pdf/cv.pdf" target="_blank"><button type="button" class="btn btn-default btn-lg">Download as PDF</button></a>
