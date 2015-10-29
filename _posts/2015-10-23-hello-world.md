@@ -1,6 +1,7 @@
 ---
 title:  "Hello World!"
 date: 2015-10-23 17:50:07
+meta: (english)
 category: personal
 excerpt: "This is my first post here using Jekyll and GitHub Pages. I've been looking for a custom way to make my own web page and also having my own blog, and writing down using Markdown! And I found it here with Jekyll."
 ---
