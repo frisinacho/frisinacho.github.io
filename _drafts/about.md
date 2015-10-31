@@ -7,6 +7,7 @@ author: Nacho
 
 Besides my [CV]({{ "/cv" | prepend: site.baseurl }}), here you could find some interesting info about myself.
 Not everything is about [coding][github] (but mostly!). I have also other interests as [Traveling][travel-blog], watching [Series and Movies][traktv] or [Playing videogames][steam]. And I love [Music][lastfm] too! <strike>I have a Flickr account for my photos, but it's outdated</strike>([link][flickr]).
+I have a strange obsession _recording_ everything I do on internet, but then it allows me to look back and remember it with great detail.
 
 [github]: https://github.com/frisinacho
 [travel-blog]: https://travelonthemoon.wordpress.com
