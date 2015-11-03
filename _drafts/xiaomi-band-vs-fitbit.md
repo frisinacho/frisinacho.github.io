@@ -12,3 +12,7 @@ Apparently it was a good choice... But the often synchronization problems, low r
 
 I was a Fitbit happy user, even with the Android unsupported devices (like my old **OnePlus One**). But then, the **Xiaomi Mi Band** arrived and everything changed.
 I bought one for a gift and I could not resist. It was cheap and it looks good... so, why not a whim?
+
+[xiaomi]: http://www.mi.com/my/miband
+[fitbit]: https://www.fitbit.com/charge
+[moto]: https://www.motorola.com/us/products/moto-360
