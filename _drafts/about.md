@@ -13,6 +13,7 @@ I have a strange obsession _recording_ everything I do on internet, but then it 
 
 I was born in the '90s in **Málaga** (South of Spain). I really love this city, but my heart doesn't belong here.
 I'm currently studying a Bachelor of _Software Engineering_ at Málaga's University, and I had a High-Level Technical Degree in _"Computer Systems Administration"_.
+I have a very variety of tastes, like I said before. And I'll never give up to keep learning!
 
 [github]: https://github.com/frisinacho
 [travel-blog]: https://travelonthemoon.wordpress.com
