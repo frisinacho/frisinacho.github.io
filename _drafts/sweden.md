@@ -6,3 +6,4 @@ category: personal
 ---
 
 First month in Sweden. First of the 4 month I'll be doing this internship (within a month of Christmas holidays).
+First of all, I want to thanks **Telefónica** and **Ericsson** for this awesome opportunity which I will take full advantage.
