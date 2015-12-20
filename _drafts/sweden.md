@@ -12,3 +12,4 @@ And Sweden it's not just one of my favourite countries in the world, but it's on
 
 One month has already passed, and it just remain two more months... But I'm quite sure that it will be amazing!
 A lot of projects to develop, and too many things to learn! (Obviously, I'd love to stay here for much more time, but that's not in my hand).
+I will try very hard to stay in Stockholm after the internship, even if it's not possible to continue in Ericsson.
