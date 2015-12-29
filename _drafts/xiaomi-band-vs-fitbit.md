@@ -18,6 +18,8 @@ I bought one for a gift and I could not resist. It was cheap and it looks good..
 The Fitbit's battery lasted around one week. But what a surprise when I discovered that, after almost two months of use, the Xiaomi's battery were still going on. That's about 8 times more!
 It's true that the interface is not the same, and probably it doesn't have the same information either... But it does what I want and what I really need in a smartband.
 
+I usually forget that I wear the **Mi Band**, and that's what I want in a _sportband_; It makes its work without bothering me.
+
 [xiaomi]: http://www.mi.com/my/miband
 [fitbit]: https://www.fitbit.com/charge
 [moto]: https://www.motorola.com/us/products/moto-360
