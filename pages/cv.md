@@ -20,7 +20,7 @@ permalink: /CV/
 - Blog: <{{ site.url }}>
 
 - Current location: 
-	- Málaga (Spain)
+	- Stockholm (Sweden)
 
 ---
 
