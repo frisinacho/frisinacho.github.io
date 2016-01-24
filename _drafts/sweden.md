@@ -15,4 +15,4 @@ A lot of projects to develop, and too many things to learn! (Obviously, I'd love
 I will try very hard to stay in Stockholm after the internship, even if it's not possible to continue in Ericsson.
 
 It's hard to leave the family and friends away, but it's for a good reason and I hope they understand and receive me with open arms when I come back.
-(At least I've this little break for Christmas in Madrid to see my family and enjoy one week with them, and other week in Málaga to see my friends)
+(At least I'd this little break for Christmas in Madrid to see my family and enjoy one week with them, and other week in Málaga to see my friends)
