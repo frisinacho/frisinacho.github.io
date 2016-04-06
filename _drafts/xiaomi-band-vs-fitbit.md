@@ -1,5 +1,6 @@
 ---
 title:  "Xiaomi Band vs FitBit Charge"
+date: 2016-04-06 15:11:15
 author: Nacho
 meta: (english)
 category: technology
