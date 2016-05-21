@@ -15,19 +15,16 @@ permalink: /CV/
 - Social:
 	* Twitter: <https://twitter.com/{{ frisinacho.twitter }}>
 	* LinkedIn: <http://es.linkedin.com/in/{{ frisinacho.linkedin }}>
-	* Github: <https://github.com/{{ frisinacho.github}}>
+	* Github: <https://github.com/{{ frisinacho.github }}>
 
 - Blog: <{{ site.url }}>
 
 - Current location: 
-	- Stockholm (Sweden)
+	- Málaga (Spain)
 
 ---
 
 #Current Position:
-
-- Internship at __*Ericsson*__:
-	* November 2015 - March 2016 (5 months)
 
 - Working as a __Freelance__:
 	* Crafting _Web_ & _Android Apps_
@@ -35,6 +32,9 @@ permalink: /CV/
 ---
 
 #Past experience:
+
+- Internship at __*Ericsson*__:
+	* November 2015 - April 2016 (6 months)
 
 - Teacher at [Talentum Schools](http://talentumschools.com/) for __Telefonica__ 
 	* June 2014 – November 2015 (1 year, 5 months)
